@@ -27,3 +27,5 @@
 - 掌握python基础
 - 了解深度学习基础知识
 - 会使用Pytorch或Tensorflow等深度学习框架优先
+
+![alt text](e7db1a72f4aa8d20bac0d1682f457b7.jpg)
