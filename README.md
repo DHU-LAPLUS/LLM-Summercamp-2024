@@ -32,6 +32,10 @@
 - [学习transformer库](https://huggingface.co/transformers/)
 - [学习LLM微调](https://huggingface.co/transformers/training.html)
 
+## 课题
+- LLM构建知识图谱
+- LLM chatbot（如购物推荐助手、解题助手、AI猫娘（？）等）
+
 ## 前置基础
 - 掌握python基础
 - 了解深度学习基础知识
